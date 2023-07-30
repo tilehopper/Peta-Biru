@@ -49,7 +49,7 @@ Selain itu kamu juga bisa subscribe ke mute list yang sudah dibuat oleh orang un
 ![image](https://github.com/tilehopper/Peta-Biru/assets/8591882/0317c46a-afd4-4a73-abab-4f0a4561e8c8)
 
 ### Kok Username Aku Ga Bisa Cantik? Dan Pertanyaan Seputar Verifikasi 
-Mungkin kamu bingung kenapa nama username kamu ada `.bsky.social` di belakangnya, sementara orang lain punya username yang lebih keren. Atau kamu bingung gimana caranya tau kalau media/institusi/public figure ini aslinya karena ga ada centang biru di Bluesky? 
+Mungkin kamu bingung kenapa nama username kamu ada `.bsky.social` di belakangnya, sementara orang lain punya username yang lebih keren. Atau kamu bingung gimana caranya tau kalau media/institusi/public figure ini yang asli karena ga ada centang biru di Bluesky?
 
 Di Bluesky, username kamu berfungsi mirip dengan email/alamat website. Karena sistem verifikasi username di Bluesky menggunakan nama domain. Logikanya kalau kamu bisa pakai nama domain kamu di Bluesky, berarti kamu pemilik domain tersebut. 
 
