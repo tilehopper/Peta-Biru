@@ -51,19 +51,20 @@ Selain itu kamu juga bisa subscribe ke mute list yang sudah dibuat oleh orang un
 ### Kok Username Aku Ga Bisa Cantik? Dan Pertanyaan Seputar Verifikasi 
 Mungkin kamu bingung kenapa nama username kamu ada `.bsky.social` di belakangnya, sementara orang lain punya username yang lebih keren. Atau kamu bingung gimana caranya tau kalau media/institusi/public figure ini aslinya karena ga ada centang biru di Bluesky? 
 
-Di Bluesky, sistem verifikasi username menggunakan nama domain. Logikanya kalau kamu bisa pakai nama domain kamu di Bluesky, berarti kamu pemilik domain tersebut. 
+Di Bluesky, username kamu berfungsi mirip dengan email/alamat website. Karena sistem verifikasi username di Bluesky menggunakan nama domain. Logikanya kalau kamu bisa pakai nama domain kamu di Bluesky, berarti kamu pemilik domain tersebut. 
 
-Cuman, gimana caranya biar bisa punya username yang ga ada `.bsky.social` dibelakangnya? 
+Cuman, gantinya gimana? 
 
-Ada opsi gratis sih, tapi terbatas. Seperti [Graysky Social](https://graysky.social/), yang juga memberikan opsi untuk hosting domain custom buat kamu dan temen-temen kamu pake rame-rame kalau pengen keliatan satu kelompok/komunitas/circle. 
+**Opsi Gratis**
 
-![image](https://github.com/tilehopper/Peta-Biru/assets/8591882/c8ff29a0-e2a5-4cec-9b31-5b6520072afe)
+Ada beberapa opsi gratis yang ditawarkan oleh komunitas Bluesky buat kamu yang ga mau ribet beli domain, atau pengen username yang unik khas kamu yang udah keburu diambil orang lain yang juga pakai `bsky.social` dibelakang username mereka
+1. **[Swifties.social](https://swifties.social/)**: Ubah `bsky.social` dibelakang username kamu jadi `swifties.social`, cocok buat Swifties.
+2. **[Skyname](https://skyna.me/login)**: Ubah `bsky.social` dibelakang username kamu jadi `bsky.social` jadi `bsky.cool`, `bsky.fish`, `bsky.lgbt`, `bsky.finance`, `tired.io`, `excuseme.wtf` atau `skeets.online`.
+3. **[Graysky.social](https://graysky.social/)**: Ubah `bsky.social` dibelakang username kamu jadi `graysky.social`.
 
-**Tapi kalau pengen beda dari yang lain, kamu udah harus beli domain.** <sup>PS. Kalau kamu udah beli domain, silahkan skip ke bagian selanjutnya!</sup>
+**Opsi Bayar**
 
->"duh mahal dong" 
-
-Beli domain di Indonesia tergolong cukup murah kok! Sebagai contoh demonstrasi, gue bakal ditunjukin alur pembelian domain melalui [RumahWeb](https://www.rumahweb.com/). **Catatan: ini contoh doang dan tidak ada sangkut paut secara finansial dengan RumahWeb**
+Cara lain buat dapat username yang bener-bener unik adalah dengan membeli domain. Ga perlu khawatir, beli domain di Indonesia tergolong cukup murah kok! Sebagai contoh demonstrasi, gue bakal ditunjukin alur pembelian domain melalui [RumahWeb](https://www.rumahweb.com/). **Catatan: ini contoh doang dan tidak ada sangkut paut secara finansial dengan RumahWeb**
 
 1. Pertama-tama, pilih nama username/domain yang kamu mau. Nama username hanyalah contoh. 
 ![image](https://github.com/tilehopper/Peta-Biru/assets/8591882/030393ae-c591-413f-8179-80e6c5985ce7)
@@ -82,7 +83,8 @@ Beli domain di Indonesia tergolong cukup murah kok! Sebagai contoh demonstrasi, 
 
 6. Selamat! Kamu sudah punya domain username kamu sendiri!
 
-### Terus ngapain?
+**Terus ngapain?**
+
 1. Balik lagi ke setelan Bluesky, pilih opsi change handle dan click "I have my own domain" 
 ![i have my own domain](https://github.com/tilehopper/Peta-Biru/assets/8591882/beb64f03-5566-4a91-8732-d43884740ac2)
 
