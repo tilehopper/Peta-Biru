@@ -125,7 +125,7 @@ Fitur dan perbaikan dibawah ini sedang dalam tahap pengembangan dan (mungkin) ba
 + Perbaiki isu sticky header nyangkut saat scrolling - bluesky-social/social-app#999
 + Pindah dari PDS backend ke AppView backend - bluesky-social/social-app#983
 + Perbaiki masalah post metadata saat user logout - bluesky-social/social-app#975
-+ Header di halaman notifikasi - bluesky-social/social-app#971
+~~+ Header di halaman notifikasi - bluesky-social/social-app#971~~
 + Teks deskripsi gambar tidak berfungsi dengan semestinya saat dibaca oleh screen reader - bluesky-social/social-app#969
 + Perbaiki isu UI text kadang kepotong ga jelas di Android - bluesky-social/social-app#964
 + Perbaiki isu UI text di Aplikasi apabila user menggunakan ukuran font besar - bluesky-social/social-app#952
@@ -173,7 +173,7 @@ Fitur-fitur dan perbaikan dibawah ini udah direncanain, cuman belum dikerjain aj
 + **Pinned Post - bluesky-social/social-app#870**
 + **Support buat hashtags - bluesky-social/social-app#848**
 + Opsi buat sembunyiin atau tunjukin reply di feeds - bluesky-social/social-app#791
-+ **Perbaiki sistem notifikasi di Android (notifikasi suka telat masuk) - bluesky-social/social-app#789**
+~~+ **Perbaiki sistem notifikasi di Android (notifikasi suka telat masuk) - bluesky-social/social-app#789**~~
 + Tambah floating button untuk follow akun di halaman profile - bluesky-social/social-app#759
 + Dukungan untuk i18n - bluesky-social/social-app#734
 + Pencet "Add an account" seharusnya tidak buat user ter-log out dari Bluesky - bluesky-social/social-app#730
